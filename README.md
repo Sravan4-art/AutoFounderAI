@@ -76,6 +76,6 @@ AutoFounder AI is a Generative AI and Agentic AI-powered platform that transform
 
 To simplify startup planning by using autonomous AI agents to analyze business ideas and generate actionable business insights.
 
-## 👨‍💻 Author
+## Author
 
 Developed as a Generative AI and Agentic AI portfolio project.
